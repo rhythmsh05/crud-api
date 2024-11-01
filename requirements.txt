@@ -1,3 +1,6 @@
 Flask
 ## Running the API Locally
-Run the Flask application:
+## Run the Flask application:
+
+Flask==2.0.1
+requests==2.25.1
